@@ -11,6 +11,8 @@ I'm **Khaled AbdElazem**, a passionate developer with a focus on JavaScript and 
 - [AI-Project](https://github.com/KhaledAbdElazem/AI-PROJECT): A project focused on AI development using JavaScript.
 - [E-commerce App](https://github.com/KhaledAbdElazem/e_commerce_app): An e-commerce application built with Dart.
 
+![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhaledAbdElazem&show_icons=true&theme=dark)
+
 ## Contact:
 - [Email](khaledabdelazem.work@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/khaledabdelazem)
