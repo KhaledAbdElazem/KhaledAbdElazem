@@ -12,7 +12,7 @@ I'm **Khaled AbdElazem**, a passionate developer with a focus on JavaScript and 
 - [E-commerce App](https://github.com/KhaledAbdElazem/e_commerce_app): An e-commerce application built with Dart.
 
 ## GitHub Stats:
-![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhaledAbdElazem&show_icons=true&theme=dark)
+![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khaled-AbdElazem&show_icons=true&theme=dark)
 
 ## Contact:
 - [Email](khaledabdelazem.work@gmail.com)
