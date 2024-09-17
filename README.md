@@ -56,7 +56,7 @@
 <br/>
 
 # 📫 How to Reach Me:
-<a href="www.linkedin.com/in/khaled-abd-elazem-a0b106310" target="_blank">
+<a href="www.linkedin.com/in/khaled-abdelazem" target="_blank">
   <img align="left" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:khaledabdelazem.work@gmail.com">
