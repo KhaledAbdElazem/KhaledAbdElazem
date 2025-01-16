@@ -1,66 +1,49 @@
 # Hi there, I'm Khaled Abdelazem! 👋
 
-<br/>
-<br/>
+## 🚀 About Me
+I'm a passionate developer with expertise in **JavaScript**, **TypeScript**, and **Dart**. I love building scalable web applications and exploring new technologies. Let's create something amazing together!
 
-# 📊 GitHub Stats :
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=KhaledAbdElazem&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-<img align="left" width="47%" height="205" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledAbdElazem&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+---
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+## 📊 GitHub Stats
 
-# 📋 Programming Languages :
-<img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=KhaledAbdElazem&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledAbdElazem&theme=dark&hide_border=false&layout=compact"/>
 
-<br/>
-<br/>
-<br/>
+<br clear="both"/>
 
-# 📚 Frameworks and Libraries :
-<img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img align="left" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-<img align="left" src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/angular.js-DD0031?style=for-the-badge&logo=angularjs&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
+---
 
-<br/>
-<br/>
-<br/>
+## 🛠️ Technologies & Tools
 
-# 💾 Databases :
-<img align="left" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<br/>
-<br/>
-<br/>
+### Frameworks & Libraries
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-# 💻 Hosting :
-<img align="left" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
+### Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<br/>
-<br/>
-<br/>
+### Hosting
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-# 📫 How to Reach Me:
-<a href="www.linkedin.com/in/khaled-abdelazem" target="_blank">
-  <img align="left" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:khaledabdelazem.work@gmail.com">
-  <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+---
 
+## 📫 How to Reach Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-abdelazem)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaledabdelazem.work@gmail.com)
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KhaledAbdElazem&style=flat-square" alt="Profile Views"/>
+</p>
