@@ -1,89 +1,81 @@
-<h1 align="center">Hi there, I'm Khaled Abdelazem! 👋</h1>
-
-
-
-## 🚀 About Me
-
-I am a dedicated **front-end developer** specializing in **React** and **Angular**, with a strong foundation in building scalable web applications. I am currently advancing my skills into full-stack development by mastering **Node.js** and **MongoDB**. My projects have successfully increased user engagement by up to 30%, showcasing my ability to create effective and user-friendly web solutions.
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KhaledAbdElazem&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledAbdElazem&theme=dark&hide_border=false&layout=compact" alt="Most Used Languages"/>
-</div>
-
-## 🛠️ Technologies & Tools
-
-<details>
-<summary>💻 Programming Languages</summary>
-<br>
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-</details>
-
-<details>
-<summary>🔧 Frameworks & Libraries</summary>
-<br>
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-</details>
-
-<details>
-<summary>🗄️ Databases</summary>
-<br>
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-</details>
-
-<details>
-<summary>☁️ Hosting</summary>
-<br>
-
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-</details>
-
-## 📂 Featured Projects
-
-### [Mystical MCQ Study Companion](https://github.com/your-username/mystical-mcq-study-companion)
-> A powerful web application that transforms lecture materials into interactive MCQ quizzes
-
-- 🎯 **Key Features**:
-  - Dynamic MCQ generation from lecture content
-  - Interactive quiz interface with real-time feedback
-  - Dark mode support for comfortable studying
-  - Progress tracking and performance analytics
-- 🛠️ **Tech Stack**: React, Tailwind CSS, Vite, Gemini API
-
-### [Cyberpunk Dashboard](https://github.com/your-username/cyberpunk-dashboard)
-> A visually stunning dashboard with futuristic aesthetics and smooth animations
-
-- 🎯 **Key Features**:
-  - Dynamic particle backgrounds
-  - Neon-themed UI components
-  - Responsive design with smooth animations
-  - Real-time data visualization
-- 🛠️ **Tech Stack**: Next.js, Tailwind CSS, Framer Motion, tsParticles
-
-## 📫 Let's Connect!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-abdelazem)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaledabdelazem.work@gmail.com)
-
-</div>
+  <h1 align="center">Khaled Abdelazem</h1>
+<p align="center">
+  <strong>Frontend Developer</strong> • <strong>React & Next.js Specialist</strong> • <strong>Lifelong Learner</strong>
+</p>
 
 ---
 
-<div align="center">
+## About Me
+
+Fresh graduate from the Faculty of Computers & Information, passionate about building modern, responsive web apps.  
+I focus on **React** and **Next.js**, while expanding into full-stack development with **Node.js** and **MongoDB**.  
+
+I enjoy writing clean, maintainable code and keeping up with the latest industry trends.  
+
+**Current Focus:**
+- Advanced React patterns & state management  
+- Serverless architectures / JAMstack  
+- Backend with Node.js & Express  
+- TypeScript for scalable apps  
+
+---
+
+## Tech Stack
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+---
+
+## Currently
+
+Working on personal projects in full-stack development and experimenting with new web technologies.  
+Always open to collaboration and knowledge sharing within the developer community.  
+
+---
+
+## Languages Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledAbdElazem&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+</p>
+
+---
+
+## Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/khaled-abdelazem">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:khaledabdelazem.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>Exploring: Advanced React, serverless architectures, and modern DevOps practices</em>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=KhaledAbdElazem&style=flat-square" alt="Profile Views"/>
-</div>
+</p>
